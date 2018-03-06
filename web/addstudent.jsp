@@ -44,7 +44,7 @@
             <table class="table table-striped">
 	
                                 <tr>
-                                    <td>STUDENT ID</td> <td><input type="text" class="form-control" name="sid" placeholder="STUDENT ID" required=""></td>
+                                    <td>STUDENT id</td> <td><input type="text" class="form-control" name="sid" placeholder="STUDENT ID" required=""></td>
 				</tr>
 
 			        <tr>
