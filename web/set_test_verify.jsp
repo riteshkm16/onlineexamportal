@@ -1,7 +1,7 @@
 <%-- 
     Document   : set_test_preview
     Created on : Dec 25, 2017, 12:12:03 PM
-    Author     : Shikha
+
 --%>
 
 <%@page import="java.sql.*"%>
